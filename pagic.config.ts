@@ -3,7 +3,7 @@
 export default {
   srcDir: '.',
   exclude: ['LICENSE'],
-  root: '/pagic_template_docs/',
+  root: '/ikeynote.github.io/',
 
   theme: 'docs',
   plugins: ['sidebar', 'prev_next'],
