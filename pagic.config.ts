@@ -17,7 +17,7 @@ export default {
   nav: [
     {
       text: 'Docs',
-      link: '/pagic_template_docs/introduction/index.html',
+      link: '/ikeynote.github.io/introduction/index.html',
     },
     {
       text: 'Pagic',
@@ -25,7 +25,7 @@ export default {
     },
     {
       text: 'About',
-      link: '/pagic_template_docs/about/index.html',
+      link: '/ikeynote.github.io/about/index.html',
       align: 'right',
     },
   ],
