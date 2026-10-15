@@ -29,7 +29,7 @@ export default {
       align: 'right',
     },
   ],
-  github: 'https://github.com/xcatliu/pagic_template_docs',
+  github: 'https://github.com/ikeynote/ikeynote.github.io',
   sidebar: {
     '/': [
       'introduction/README.md',
