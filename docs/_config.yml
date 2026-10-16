@@ -8,7 +8,7 @@ lang: cn
 locale: zh_CN
 repo_url: "https://github.com/ikeynote/ikeynote.github.io"
 edit_on_github: true
-logo: assets/img/jekyll-rtd-logo-250px.jpg
+# logo: assets/img/jekyll-rtd-logo-250px.jpg
 favicon: assets/img/favicon/favicon.ico
 sticky_navigation: true
 prev_next_buttons_location: bottom
@@ -20,3 +20,18 @@ mermaid: true
 social_image: assets/img/jekyll-rtd-social-media.jpg
 social_image_alt: "Social media card image for the Jekyll RTD theme, showing the logo and project title."
 fediverse: "@carlosperate@mastodon.social"
+# List of external links to show at the bottom of the sidebar navigation.
+# Each entry is either a link or a section header.
+# Section headers group the links that follow them.
+# Default: Unset
+nav_external_links:
+  - title: A link without a section header
+    url: 'https://example.com'
+  - section: Links
+  - title: A link under the Links section
+    url: 'https://example.com'
+  - title: Another link under the Links section
+    url: 'https://example.com'
+  - section: More Links
+  - title: A link under the More Links section
+    url: 'https://example.com'
