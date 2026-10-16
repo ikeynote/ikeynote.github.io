@@ -8,3 +8,13 @@
 *和#命令基本上启动搜索，就像您使用/\<word\>或?\<word\>一样。因此，可以在/或?搜索提示符下使用向上箭头键调用这些搜索。
 
 ```
+### Git
+
+```
+git add .
+git commit -m "msg"
+git push
+
+git fetch --all && git reset --hard origin/main && git pull
+
+```
