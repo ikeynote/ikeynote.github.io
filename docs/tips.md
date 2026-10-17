@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tips
+nav_order: 2
+---
+
 ### VIM
 ```
 :%s/<C-r><C-w>/{your_new_word}/g
