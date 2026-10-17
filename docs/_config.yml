@@ -24,4 +24,11 @@ fediverse: "@carlosperate@mastodon.social"
 # Each entry is either a link or a section header.
 # Section headers group the links that follow them.
 # Default: Unset
-
+nav:
+- Home: index.md
+- Tips:
+    - Web etc.: docs/tips.md
+    - Fishing etc: docs/fishing.md
+- Bookmarks:
+    - Fishing: docs/license.md
+    - Release Notes: about/release-notes.md
