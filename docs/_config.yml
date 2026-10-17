@@ -24,16 +24,4 @@ fediverse: "@carlosperate@mastodon.social"
 # Each entry is either a link or a section header.
 # Section headers group the links that follow them.
 # Default: Unset
-nav_external_links:
-  - title: 首页
-    url: '/index'
-  - title: Tips
-    url: '/tips.html'   
-  - section: Links
-  - title: A link under the Links section
-    url: 'https://example.com'
-  - title: Another link under the Links section
-    url: 'https://example.com'
-  - section: More Links
-  - title: A link under the More Links section
-    url: 'https://example.com'
+
