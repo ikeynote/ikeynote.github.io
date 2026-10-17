@@ -4,7 +4,9 @@ title: Tips
 nav_order: 1
 ---
 
-### VIM
+### Tips
+
+**1.VIM**
 ```
 :%s/<C-r><C-w>/{your_new_word}/g
 # % takes the search globally.
@@ -16,20 +18,11 @@ nav_order: 1
 提示符下使用向上箭头键调用这些搜索。
 ```
 
-### Git
+**2.Git**
 ```
-.. code:: python
+git add .
+git commit -m "msg"
+git push
 
-> git add .
-> git commit -m "msg"
-> git push
->
-> git fetch --all && git reset --hard origin/main && git pull
+git fetch --all && git reset --hard origin/main && git pull
 ```
-
-.. code:: python
-
-    extensions = [
-        ...
-        'sphinx_rtd_theme',
-    ]
