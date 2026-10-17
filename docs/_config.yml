@@ -27,8 +27,8 @@ fediverse: "@carlosperate@mastodon.social"
 nav:
 - Home: index.md
 - Tips:
-    - Web etc.: docs/tips.md
-    - Fishing etc: docs/fishing.md
+    - Web etc.: tips.md
+    - Fishing etc: fishing.md
 - Bookmarks:
     - Fishing: docs/license.md
     - Release Notes: about/release-notes.md
