@@ -1,8 +1,12 @@
-nav:
-- Home: index.md
-- Tips:
-    - Web etc.: docs/tips.md
-    - Fishing etc: docs/fishing.md
-- Bookmarks:
-    - Fishing: docs/links.md
-    - Release Notes: about/release-notes.md
+site_name: 'iKeynote'
+site_description: 'my key note.'
+repo_url: 'https://github.com/ikeynote/ikeynote.github.io'
+repo_name: 'GitHub'
+docs_dir: 'docs/'
+
+theme:
+  name: readthedocs
+  include_homepage_in_sidebar: false
+  prev_next_buttons_location: 'both'
+extra:
+  version: '1.4.0'

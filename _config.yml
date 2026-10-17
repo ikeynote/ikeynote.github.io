@@ -1,0 +1,40 @@
+title: Read The Docs Jekyll Theme
+description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
+exclude:
+  - tests/
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+
+# Configuring Jekyll to build the docs site from the `docs/` directory
+# while loading the local theme from the repo root
+source: docs/
+
+remote_theme: "./"
+
+# Theme settings
+site_author: Carlos Pereira Atencio
+# lang: en
+# locale: en_US
+repo_url: 'https://github.com/ikeynote/ikeynote.github.io'
+# edit_on_github: true
+# github_branch: main
+# logo: docs/assets/img/jekyll-rtd-logo-250px.jpg
+# favicon: docs/assets/img/favicon/favicon.ico
+sticky_navigation: true
+# nav_external_links:
+#   - title: Jekyll RTD Theme on GitHub
+#     url: 'https://github.com/carlosperate/jekyll-theme-rtd'
+#   - section: Links
+#   - title: Jekyll RTD Theme on GitHub I
+#     url: 'https://github.com/carlosperate/jekyll-theme-rtd'
+prev_next_buttons_location: both
+search_enabled: true
+# hljs_style: atom-one-dark
+hljs_languages: [ruby, python, javascript, bash, yaml, markdown]
+# admonitions: true
+# mermaid: true
+# display_version: 1.4.0
+# social_image: docs/assets/img/jekyll-rtd-social-media.jpg
+# social_image_alt: "Social media card image for the Jekyll RTD theme, showing the logo and project title."
+# fediverse: "@carlosperate@mastodon.social"
