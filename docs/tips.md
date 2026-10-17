@@ -7,6 +7,7 @@ nav_order: 1
 # Tips
 
 **1.VIM**
+
 ```
 :%s/<C-r><C-w>/{your_new_word}/g
 # % takes the search globally.
@@ -33,4 +34,4 @@ git fetch --all && git reset --hard origin/main && git pull
 
 可以用这个命令检查是否修改成功：
 
-`git remote -v'
+`git remote -v`
