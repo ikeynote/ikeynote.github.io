@@ -5,7 +5,6 @@ nav_order: 1
 ---
 
 # Tips
---------------------------------------------------------------------------------
 
 **1.VIM**
 ```
@@ -20,10 +19,16 @@ nav_order: 1
 ```
 
 **2.Git**
-```
+`
 git add .
 git commit -m "msg"
 git push
 
 git fetch --all && git reset --hard origin/main && git pull
-```
+`
+
+输入下面的命令修改远程仓库地址：
+`git remote set-url origin git@bitbucket.org:你的用户名/仓库名.git`
+
+可以用这个命令检查是否修改成功：
+`git remote -v'
