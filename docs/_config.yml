@@ -20,15 +20,4 @@ mermaid: true
 social_image: assets/img/jekyll-rtd-social-media.jpg
 social_image_alt: "Social media card image for the Jekyll RTD theme, showing the logo and project title."
 fediverse: "@carlosperate@mastodon.social"
-# List of external links to show at the bottom of the sidebar navigation.
-# Each entry is either a link or a section header.
-# Section headers group the links that follow them.
-# Default: Unset
-nav:
-- Home: index.md
-- Tips:
-    - Web etc.: tips.md
-    - Fishing etc: fishing.md
-- Bookmarks:
-    - Fishing: docs/license.md
-    - Release Notes: about/release-notes.md
+
