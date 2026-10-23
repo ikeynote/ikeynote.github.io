@@ -9,6 +9,10 @@ nav_order: 2
 
 https://tenkarausa.com
 
+**carbon**
+
+https://www.hyperxcarbon.com/24t-30t-40t-46t-carbon-fiber-lower-modulus-grades-explained-for-budget-projects/
+https://www.carbonfibermaterial.com/
 
 **etc**
 

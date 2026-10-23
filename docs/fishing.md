@@ -26,6 +26,15 @@ nav_order: 3
 > 进阶适配：如果你经常钓5斤以上的鱼，可以考虑4000-5000线杯的型号
 > 场景匹配：在障碍物多的水域，建议选择轴数更多（如16轴）的渔轮，提升操控性
 
+**Fly weight**
+
+Rod weight	Line weight (first 30 ft)	Typical use
+3#	about 100 grains	Small streams, small trout, panfish, delicate dry flies
+5#	about 140 grains	The all-rounder for trout, which is why I used it for your rod
+7#	about 185 grains	Bigger trout, bass, light steelhead, windy conditions
+9#	about 240 grains	Large bass and pike, steelhead and salmon, saltwater such as redfish
+
+The scale runs roughly from 1# to 14#.
 
 **bookmarks**
 
