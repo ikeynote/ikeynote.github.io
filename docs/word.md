@@ -3,10 +3,10 @@ layout: default
 title: Word
 nav_order: 4
 ---
-# Links #
+# Word #
 
 **Fish**
-
+---
 salmon: 鲑鱼、三文鱼、大马哈鱼
 
 sea bass: 黑鲈、海鲈鱼
