@@ -17,7 +17,23 @@ nav_order: 1
 
 *和#命令基本上启动搜索，就像您使用/\<word\>或?\<word\>一样。因此，可以在/或?搜索
 提示符下使用向上箭头键调用这些搜索。
+
+xp                  # 交换两个字符
+ddp                 # 交换两行
+bi                  # 单词前加入字符
+ea                  # 单词后加入字符
+[N]r<Enter>         # 用一个换行符替换 N 个字符
+g Ctrl+G            # 单词统计，按 g 再同时按 Ctrl+g 组合键
 ```
+**EasyAlign**
+
+- vipga*|
+- vipga<enter>*|
+- vipga<enter><enter>*|
+
+<enter> 选择对接方式：左中（C）右（R），默认左对齐
+
+
 
 **2.Git**
 ```
@@ -39,8 +55,8 @@ git fetch --all && git reset --hard origin/main && git pull
 **3. UCRT proxy setting**
 ```
 set:
-  export http_proxy=127.0.0.1:10808
-  export http_proxy=127.0.0.1:10808
+  export http_proxy  = 127.0.0.1:10808
+  export https_proxy = 127.0.0.1:10808
 
 unset:
   export http_proxy
@@ -65,7 +81,7 @@ notepad $PROFILE
 在打开的配置文件中，添加以下函数：
 ```
 function proxy {
-    $env:http_proxy = "http://127.0.0.1:10809"
+    $env:http_proxy  = "http://127.0.0.1:10809"
     $env:https_proxy = "http://127.0.0.1:10809"
     [System.Net.WebRequest]::DefaultWebProxy = New-Object System.Net.WebProxy("http://127.0.0.1:10809")
     Write-Host "Proxy enabled: http://127.0.0.1:10809" -ForegroundColor Green
