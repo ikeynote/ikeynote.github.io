@@ -25,15 +25,15 @@ ea                  # 单词后加入字符
 [N]r<Enter>         # 用一个换行符替换 N 个字符
 g Ctrl+G            # 单词统计，按 g 再同时按 Ctrl+g 组合键
 ```
-**EasyAlign**
 
+**EasyAlign**
+```
 - vipga*|
 - vipga<enter>*|
 - vipga<enter><enter>*|
 
 <enter> 选择对接方式：左中（C）右（R），默认左对齐
-
-
+```
 
 **2.Git**
 ```
@@ -88,7 +88,7 @@ function proxy {
 }
 
 function unproxy {
-    $env:http_proxy = $null
+    $env:http_proxy  = $null
     $env:https_proxy = $null
     [System.Net.WebRequest]::DefaultWebProxy = $null
     Write-Host "Proxy disabled" -ForegroundColor Yellow
