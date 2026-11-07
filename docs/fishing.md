@@ -36,6 +36,22 @@ Rod weight	Line weight (first 30 ft)	Typical use
 
 The scale runs roughly from 1# to 14#.
 
+钓竿长8ft（约2.43m）,钓线长度计算：
+
+- 钓竿长度1ft≈30.4cm
+- 适配#4鱼线的钓竿长度为8英尺（约2.43m）
+- 主线长度为钓竿的3倍（约7.29m）
+- 子线+前导线长度为14英尺（约4.26m）
+- 总计长度约13.97m
+
+干货浓缩：
+
+    1.买成品饵不知道选多大的话，优先考虑那个品类下最小的两个号数。
+    2.买裸钩自己绑饵的话，优先考虑14#及以下的钩子，包括14#、16＃、18#、20#、22#.
+   ` 注意：飞蝇钩数字越大，钩子尺寸越小！`
+
 **bookmarks**
 
 https://fishingscouty.com/
+
+[FLY Lines]https://gbflycasters.org/understanding-fly-lines/
