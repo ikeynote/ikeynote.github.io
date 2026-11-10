@@ -56,3 +56,4 @@ The scale runs roughly from 1# to 14#.
 - https://fishingscouty.com/
 
 - [FLY Lines](https://gbflycasters.org/understanding-fly-lines/)
+- [FLY Line Weight](https://castandfly.com/fly-line-weight/)
