@@ -5,7 +5,6 @@ nav_order: 1
 ---
 
 # Tips
-
 ### 1.VIM
 
 ```
@@ -249,7 +248,6 @@ g Ctrl+G            # 单词统计，按 g 再同时按 Ctrl+g 组合键
 
 
 ### 2.Git
-
 ```
 git add .
 git commit -m "msg"
@@ -279,7 +277,7 @@ unset:
 test:
   curl cip.cc
  ```
-***4.PowerShell Proxy Setting***
+### 4.PowerShell Proxy Setting
 步骤 1：找到并编辑 PowerShell 配置文件
 
 首先，我们需要找到 PowerShell 的配置文件。如果你还没有创建过，可以用以下命令创建：
