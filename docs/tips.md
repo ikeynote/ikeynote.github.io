@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # Tips
-### 1.VIM
+## 1.VIM
 
 ```
 :%s/<C-r><C-w>/{your_new_word}/g
@@ -247,7 +247,8 @@ g Ctrl+G            # 单词统计，按 g 再同时按 Ctrl+g 组合键
 | Other | `zP` | `ClearPrintArea` | Clear the print area | |
 
 
-### 2.Git
+## 2.Git
+
 ```
 git add .
 git commit -m "msg"
@@ -264,7 +265,7 @@ git fetch --all && git reset --hard origin/main && git pull
 
 `git remote -v`
 
-### 3. UCRT proxy setting
+## 3. UCRT proxy setting
 ```
 set:
   export http_proxy  = 127.0.0.1:10808
@@ -277,7 +278,7 @@ unset:
 test:
   curl cip.cc
  ```
-### 4.PowerShell Proxy Setting
+## 4.PowerShell Proxy Setting
 步骤 1：找到并编辑 PowerShell 配置文件
 
 首先，我们需要找到 PowerShell 的配置文件。如果你还没有创建过，可以用以下命令创建：
