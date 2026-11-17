@@ -19,6 +19,10 @@ https://www.carbonfibermaterial.com/
 
 https://github.com/chloneda/vim-cheatsheet/
 
+**CSharp**
+
+https://zhuanlan.zhihu.com/p/1898778097685357924
+
 **etc**
 
 https://github.com/carlosperate/jekyll-theme-rtd
